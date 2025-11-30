@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mustafa Hussein Ahmed
 
-<!--
-**dev-mustafa-hussin/dev-mustafa-hussin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer (.NET, Python, Odoo ERP)**  
+Helping SMEs automate operations and build scalable business applications.
 
-Here are some ideas to get you started:
+- Founder of **3M Code Software Solutions**
+- Specialized in **Odoo ERP implementation & custom modules**
+- Backend experience with **ASP.NET Core, Python, REST APIs, PostgreSQL**
+- Interested in **digital transformation, automation, and ERP integrations**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured skills
+
+- Odoo ERP · Custom Modules · Integrations  
+- ASP.NET Core · C# · Python  
+- RESTful APIs · SQL/PostgreSQL  
+- Full-Stack Web Development
+
+## Contact
+
+- LinkedIn: \[ضع رابط لينكدإن هنا\]  
+- Email: dev-mustafa-hussin@hotmail.com  
+- Portfolio (soon): GitHub Pages landing page

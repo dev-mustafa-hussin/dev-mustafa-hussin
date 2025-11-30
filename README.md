@@ -17,6 +17,6 @@ Helping SMEs automate operations and build scalable business applications.
 
 ## Contact
 
-- LinkedIn: \[ضع رابط لينكدإن هنا\]  
+- LinkedIn: https://www.linkedin.com/in/mustafa-hussein-ahmed-a4aa3a39a/
 - Email: dev-mustafa-hussin@hotmail.com  
 - Portfolio (soon): GitHub Pages landing page

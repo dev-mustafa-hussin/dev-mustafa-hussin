@@ -1,220 +1,176 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mustafa%20Hussein&fontSize=80&animation=fadeIn&fontColor=fff" />
-</div>
 
-<h1 align="center">Hi 👋, I'm Mustafa Hussein Ahmed</h1>
-<h3 align="center">Full‑Stack Developer & Odoo ERP Specialist</h3>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mustafa%20Hussein&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Odoo%20ERP%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%26+Odoo+Expert;50%2B+Successful+ERP+Implementations;Building+EDOXO-PRO+for+Egyptian+SMEs;Passionate+about+Digital+Transformation" alt="Typing SVG" />
+</a>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/mustafa-hussein-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.mustafa.hussin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/dev-mustafa-hussin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dev-mustafa-hussin&style=for-the-badge&color=667eea" alt="Profile Views"/>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🏢 **Full-Stack Developer & Odoo ERP Specialist** at **3M Code Software Solutions**  
-📍 Based in Egypt, serving MENA region  
-💼 50+ successful Odoo enterprise implementations  
-🎯 Passionate about automating business processes and digital transformation  
-🌱 Currently exploring: AI integration in ERP systems & Flutter mobile development
+```javascript
+const mustafa = {
+    role: "Full-Stack Developer & Odoo ERP Specialist",
+    company: "3M Code Software Solutions",
+    location: "📍 Egypt | Serving MENA Region",
+    experience: {
+        odooImplementations: "50+",
+        yearsOfExperience: "5+"
+    },
+    currentFocus: [
+        "🏗️ Building EDOXO-PRO: Next-gen ERP for Egyptian SMEs",
+        "📱 Cross-platform apps with Flutter",
+        "🤖 AI integration in ERP systems",
+        "☁️ DevOps with Docker & Kubernetes"
+    ],
+    funFact: "I automate everything I do more than twice! 🚀"
+};
+```
 
 ---
 
-## 🔭 Current Focus
+## 🛠️ Tech Arsenal
 
-- 🏗️ Building **EDOXO-PRO**: Next-gen ERP dashboard for Egyptian SMEs
-- 📱 Developing cross-platform mobile apps with **Flutter**
-- 🤖 Integrating **AI-powered insights** into Odoo modules
-- 📚 Learning: Advanced DevOps with **Docker & Kubernetes**
+<div align="center">
+
+### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### ⚙️ Backend & Database
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 💡 Areas of Expertise
+## 📊 GitHub Analytics
 
-💬 **Ask me about:**
-- **.NET Core, Python, Node.js** - Backend development
-- **Odoo ERP** - Enterprise implementations & custom modules
-- **REST APIs** - Design and integration
-- **PostgreSQL & Database Optimization** - Schema design & query performance
-- **React, Next.js & Angular** - Frontend development
-- **Flutter** - Cross-platform mobile apps
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-mustafa-hussin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mustafa-hussin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mustafa-hussin&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mustafa-hussin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" width="100%"/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 [EDOXO-PRO](https://github.com/dev-mustafa-hussin/EDOXO-PRO)
-Enterprise ERP Dashboard built with Next.js 16, React 19, TailwindCSS  
-`Next.js` `React` `TypeScript` `Tailwind CSS` `ERP`
-
-### 🛍️ E-Commerce Integration Module
-Custom Odoo module for seamless e-commerce synchronization  
-`Python` `Odoo` `PostgreSQL` `REST API`
-
-### 📊 POS System Implementation
-Comprehensive Point of Sale system with inventory management  
-`Odoo` `Python` `React` `Real-time Sync`
-
----
-
-## 🛠️ Tech Stack & Tools
-
-[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,nodejs,react,nextjs,angular,flutter,html,css,postgres,mysql,mongodb,docker,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
-
-### Backend & Databases
-`C# / ASP.NET Core` `Python` `Node.js / Express` `PostgreSQL` `MySQL` `MongoDB` `SQL Server` `Firebase`
-
-### Frontend & Mobile
-`React` `Next.js` `Angular` `TypeScript` `JavaScript` `TailwindCSS` `Flutter` `Dart`
-
-### ERP & Tools
-`Odoo (Enterprise 19)` `Zapier` `Docker` `Git` `GitHub` `Postman` `Linux` `Azure`
-
-### Design & Productivity
-`Figma` `Adobe Photoshop` `Framer` `Excel Automation`
-
----
-
-## 💼 My Services
-
-### 🏑️ **Odoo ERP Consulting & Implementation**
-
-End-to-end Odoo enterprise system deployment with custom module development
-
-- 🌐 **Multi-module Implementation**: Sales, Accounting, Inventory, HR, Warehouse
-- 📚 **System Configuration**: Customization to fit unique business workflows
-- 🏐 **Data Migration**: Safe and structured migration from legacy systems
-- 🚠️ **Team Training**: Comprehensive staff training & documentation
-- 🔧 **Post-go-live Support**: Dedicated technical support for 3-6 months
-
----
-
-### 💻 **Full-Stack Web Development**
-
-Modern, scalable web applications with cutting-edge technologies
-
-- ⚜️ **Frontend**: React, Next.js, Angular with TypeScript
-- 🖱️ **Backend**: Node.js, ASP.NET Core, Python microservices
-- 📤 **Databases**: PostgreSQL, MySQL, MongoDB optimization
-- 🔗 **APIs**: RESTful & GraphQL API design and integration
-- 🚀 **Deployment**: Docker, CI/CD pipelines, AWS/Azure hosting
-
----
-
-### 💱 **POS & Inventory Management**
-
-Custom point-of-sale systems with real-time inventory sync
-
-- 🛍️ **Retail Solutions**: Multi-store, multi-branch POS systems
-- 📄 **Inventory Tracking**: Real-time stock management & tracking
-- 💁 **User Management**: Role-based access control
-- 📈 **Reporting**: Detailed sales and inventory analytics
-- 🔄 **Odoo Integration**: Seamless sync with Odoo backend
-
----
-
-### 📱 **Mobile App Development**
-
-Cross-platform mobile applications with Flutter
-
-- 📱 **iOS & Android**: Single codebase for both platforms
-- 🌐 **Odoo Sync**: Mobile apps connected to Odoo instances
-- 🔍 **Offline Support**: Works without internet connection
-- 🔐 **Secure**: End-to-end encryption for sensitive data
-- 📐 **Scalable**: Performance optimized for large datasets
-
----
-
-### 📚 **Training & Technical Support**
-
-Comprehensive team training and ongoing support
-
-- 📍 **Odoo Training**: From basics to advanced module customization
-- 📑 **Documentation**: Arabic & English technical docs
-- 🎩 **Customization**: Tailor training for your team's needs
-- 🔟 **24/7 Support**: Email, chat, and video call support
-- 🌟 **Arabic Expertise**: Native speaker, understands local business needs
-
----
-## 🌟 Case Studies & Success Stories
-
-### 🏑️ Odoo ERP Transformation for Manufacturing
-
-**Client**: Local ceramics manufacturer (50+ employees)  
-**Challenge**: Manual inventory management, no production tracking, accounting delays  
-**Solution**: Implemented Odoo with Inventory, Manufacturing, and Accounting modules  
-**Results**:
-- ✅ **50% reduction** in inventory management time
-- ✅ **70% faster** accounting month-end close
-- ✅ **Real-time** production tracking across facilities
-- ✅ **99.5% inventory accuracy** improvement
-
----
-
-### 💱 POS System for Multi-Branch Retail
-
-**Client**: Fashion retail chain (5 branches)  
-**Challenge**: Fragmented POS systems, no unified reporting, manual reconciliation  
-**Solution**: Custom Flutter mobile POS + Odoo backend integration  
-**Results**:
-- ✅ **Unified reporting** across all branches in real-time
-- ✅ **Reduced** daily reconciliation time from 2 hours to 15 minutes
-- ✅ **Online/Offline support** for 24/7 operations
-- ✅ **Multi-currency** support for international transactions
-
----
-
-### 📚 Training & Digital Transformation
-
-**Client**: Regional distribution company (100+ employees)  
-**Challenge**: Staff resistance to ERP, limited tech literacy  
-**Solution**: Comprehensive Arabic training program + role-based documentation  
-**Results**:
-- ✅ **95% system adoption** within 3 months
-- ✅ **Reduced support tickets** by 80% post-training
-- ✅ **Arabic documentation** created for all critical processes
-- ✅ **Ongoing mentoring** established sustainable usage
-
-
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-mustafa-hussin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-mustafa-hussin&layout=compact&theme=tokyonight&hide_border=true" />
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[EDOXO-PRO](https://github.com/dev-mustafa-hussin/EDOXO-PRO)** | 🏢 Next-gen ERP Dashboard for Egyptian SMEs | `Next.js` `React 19` `TypeScript` `TailwindCSS` |
+| **E-Commerce Module** | 🛒 Custom Odoo module for e-commerce sync | `Python` `Odoo` `PostgreSQL` `REST API` |
+| **POS System** | 🏪 Comprehensive Point of Sale with inventory | `Odoo` `Python` `React` `Real-time` |
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mustafa-hussin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+## 💼 Services I Offer
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Odoo ERP Solutions
+- ✅ Full Implementation & Configuration
+- ✅ Custom Module Development
+- ✅ Data Migration from Legacy Systems
+- ✅ Team Training & Documentation
+- ✅ Post-go-live Support (3-6 months)
+
+</td>
+<td width="50%">
+
+### 💻 Web & Mobile Development
+- ✅ React / Next.js / Angular Apps
+- ✅ .NET Core & Node.js APIs
+- ✅ Flutter Cross-platform Apps
+- ✅ Database Design & Optimization
+- ✅ CI/CD & Cloud Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+## 📬 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-hussein-ahmed-a4aa3a39a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dev-mustafa-hussin@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/mustafa.hussin.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/dev-mustafa-hussin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>💼 Open for:</strong> Odoo consulting | Full-stack projects | ERP integrations | Freelance development
-</p>
+💬 **Open for freelance projects & collaborations!**
+
+<a href="https://linkedin.com/in/mustafa-hussein-dev">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+📧 **dev.mustafa.hussin@gmail.com**
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
-  <p><strong>"Turning messy business processes into clean automated workflows."</strong></p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=dev-mustafa-hussin&color=blueviolet)
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
 </div>
